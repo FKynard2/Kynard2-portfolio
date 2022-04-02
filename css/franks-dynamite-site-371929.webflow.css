@@ -2027,6 +2027,7 @@ blockquote {
   .textarea {
     width: 100%;
     min-width: 0px;
+    min-height: 100px;
   }
 
   .asset-container {
