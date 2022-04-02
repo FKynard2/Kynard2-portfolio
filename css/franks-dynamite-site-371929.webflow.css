@@ -1926,7 +1926,7 @@ blockquote {
     height: 100%;
   }
   .project-body {
-    width: 50%;
+    height: fit-content;
   }
   .h4 {
     white-space: break-spaces;
