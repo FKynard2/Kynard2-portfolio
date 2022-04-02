@@ -1925,10 +1925,18 @@ blockquote {
     width: 100%;
     height: 100%;
   }
+
   .h4 {
     white-space: break-spaces;
   }
-
+  .error-message {
+    background-color: transparent;
+    color: #ff4f7b;
+    font-size: 14px;
+    line-height: 24px;
+    position: absolute;
+    margin-top: 460px;
+  }
   .styleguide-grid {
     -ms-grid-rows: auto auto auto;
     grid-template-rows: auto auto auto;
@@ -2009,7 +2017,7 @@ blockquote {
   }
 
   .form {
-    width: 75%;
+    width: 100%;
     -ms-grid-columns: 1fr;
     grid-template-columns: 1fr;
   }
