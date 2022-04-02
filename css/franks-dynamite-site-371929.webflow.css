@@ -2009,7 +2009,7 @@ blockquote {
   }
 
   .form {
-    width: 100%;
+    width: 75%;
     -ms-grid-columns: 1fr;
     grid-template-columns: 1fr;
   }
