@@ -1921,16 +1921,11 @@ blockquote {
 }
 
 @media screen and (max-width: 479px) {
-  .text-field {
-    height: 50%;
-  }
   .YT-vid-container {
     width: 100%;
     height: 100%;
   }
-  .project-body {
-    height: fit-content;
-  }
+
   .h4 {
     white-space: break-spaces;
   }
