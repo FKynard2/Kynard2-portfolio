@@ -1165,6 +1165,7 @@ blockquote {
   grid-template-columns: 1fr;
   -ms-grid-rows: auto auto auto auto;
   grid-template-rows: auto auto auto auto;
+  justify-items: center;
 }
 
 .textarea {
