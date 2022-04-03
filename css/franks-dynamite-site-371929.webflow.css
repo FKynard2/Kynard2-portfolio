@@ -1164,7 +1164,7 @@ blockquote {
   -ms-grid-columns: 1fr;
   grid-template-columns: 1fr;
   -ms-grid-rows: auto auto auto auto;
-  grid-template-rows: 20px 20px 40px auto;
+  grid-template-rows: auto auto auto auto;
   justify-items: center;
 }
 
@@ -1924,6 +1924,11 @@ blockquote {
   .YT-vid-container {
     width: 100%;
     height: 100%;
+  }
+
+  .section {
+    padding-top: 0px;
+    padding-bottom: 40px;
   }
 
   .h4 {
