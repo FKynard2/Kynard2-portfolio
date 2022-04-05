@@ -1931,9 +1931,6 @@ blockquote {
     padding-bottom: 40px;
   }
 
-  .h4 {
-    white-space: break-spaces;
-  }
   .error-message {
     background-color: transparent;
     color: #ff4f7b;
