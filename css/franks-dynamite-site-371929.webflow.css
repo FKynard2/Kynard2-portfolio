@@ -1970,15 +1970,19 @@ blockquote {
   }
 
   .primary-button {
-    font-size: 15px;
+    font-size: 13px;
   }
 
   .primary-button.top-margin {
-    width: 100%;
+    width: 20%;
   }
 
   .secondary-button {
-    font-size: 15px;
+    font-size: 13px;
+  }
+
+  .cta {
+    width: 20%;
   }
 
   .two-col-grid {
