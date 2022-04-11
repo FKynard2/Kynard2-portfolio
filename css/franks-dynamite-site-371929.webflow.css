@@ -124,7 +124,7 @@ blockquote {
 }
 
 .logo-icon {
-  width: 28px;
+  width: 100px;
   margin-right: 8px;
 }
 
@@ -211,6 +211,17 @@ blockquote {
 .quote {
   color: #5f6a8f;
   font-style: italic;
+}
+
+.buttons-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.cta {
+  margin-top: 30px;
+  width: 35%;
 }
 
 .styleguide-grid {
