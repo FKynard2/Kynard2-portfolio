@@ -191,6 +191,7 @@ html[data-w-dynpage] [data-w-cloak] {
   box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1), 0px 1px 3px rgba(0, 0, 0, 0.1);
   cursor: pointer;
 }
+
 .w-webflow-badge > img {
   display: inline-block !important;
   visibility: visible !important;

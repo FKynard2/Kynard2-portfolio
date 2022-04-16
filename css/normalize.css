@@ -152,6 +152,7 @@ sub {
 img {
   border: 0;
 }
+
 /**
  * Correct overflow not hidden in IE 9/10/11.
  */
@@ -239,8 +240,8 @@ select {
  *    specificity and defer to the .w-button selector
  */
 button,
-html input[type="button"],
-input[type="reset"] {
+html input[type='button'],
+input[type='reset'] {
   -webkit-appearance: button;
   /* 2 */
   cursor: pointer;
