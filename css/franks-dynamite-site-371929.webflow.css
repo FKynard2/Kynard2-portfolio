@@ -1763,6 +1763,12 @@ blockquote {
     padding-left: 0px;
   }
 
+  .logo-icon {
+    width: 100px;
+    margin-right: -39px;
+    margin-top: 7px;
+  }
+
   .bottom-burger-line {
     padding-right: 0px;
     padding-bottom: 0px;
