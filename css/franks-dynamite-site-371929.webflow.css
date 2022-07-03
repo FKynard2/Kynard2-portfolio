@@ -449,6 +449,9 @@ blockquote {
   font-size: 14px;
   line-height: 24px;
 }
+.shining-bright{
+  background-image: url("/images/side\ logo\ for\ services.jpg");
+}
 .coverbag {
   background-image: url('/images/cbmvz-uscg1.jpg');
 }
