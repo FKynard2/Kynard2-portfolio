@@ -449,7 +449,9 @@ blockquote {
   font-size: 14px;
   line-height: 24px;
 }
-
+.coverbag {
+  background-image: url('/images/cbmvz-uscg1.jpg');
+}
 .galaxy {
   background-image: url('/images/homepage\ slider.jpg');
 }
