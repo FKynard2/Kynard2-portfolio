@@ -2608,3 +2608,26 @@ blockquote {
         grid-column-start: 2;
     }
 }
+
+
+.background-element {
+  width: 100%;
+    
+  background-image: url('../svg/Landing page (1).svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.background-element-two {
+  width: 100%;
+    
+  background-image: url('../svg/services page (1).svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.background-element-three {
+  width: 100%;
+    
+  background-image: url('../svg/services page 2 (1).svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
